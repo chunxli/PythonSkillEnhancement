@@ -1,3 +1,62 @@
+## Python Basics To-Do List
+- [ ] **Introduction to Python**
+  - [ ] Install Python and set up the development environment
+  - [ ] Understand Python syntax and script execution
+  - [ ] Practice with basic Python REPL commands
+
+- [ ] **Variables and Data Types**
+  - [ ] Learn about data types: int, float, str, bool
+  - [ ] Understand variables and how to assign values
+  - [ ] Practice type conversion
+
+- [ ] **Operators**
+  - [ ] Explore arithmetic operators
+  - [ ] Understand comparison operators
+  - [ ] Use logical operators
+  - [ ] Practice assignment operators
+
+- [ ] **Strings**
+  - [ ] Manipulate strings (concatenation, slicing, and methods)
+  - [ ] Understand string formatting
+  - [ ] Practice with common string functions
+
+- [ ] **Control Flow**
+  - [ ] Write if, elif, and else statements
+  - [ ] Practice with for loops
+  - [ ] Utilize while loops
+  - [ ] Understand break and continue
+
+- [ ] **Functions**
+  - [ ] Define and call functions
+  - [ ] Understand parameters and return values
+  - [ ] Explore scope and global variables
+  - [ ] Use built-in functions and modules
+
+- [ ] **Lists**
+  - [ ] Create and manipulate lists
+  - [ ] Understand list methods and slicing
+  - [ ] Practice list comprehensions
+
+- [ ] **Dictionaries**
+  - [ ] Work with dictionaries and understand key-value pairs
+  - [ ] Explore dictionary methods
+  - [ ] Practice iterating over dictionaries
+
+- [ ] **Tuples and Sets**
+  - [ ] Learn to use tuples and understand their immutability
+  - [ ] Create and manipulate sets
+  - [ ] Understand set operations
+
+- [ ] **Input and Output**
+  - [ ] Use input() to gather user input
+  - [ ] Practice output formatting
+  - [ ] Read from and write to files
+
+- [ ] **Error Handling**
+  - [ ] Understand try-except blocks
+  - [ ] Use exceptions for error handling
+  - [ ] Explore finally and else in error handling
+
 ## Intermediate Python To-Do List
 - [ ] **Object-Oriented Programming (OOP)**
   - [ ] Understand classes and objects
