@@ -145,3 +145,33 @@
   - [ ] [Create a Python package](https://packaging.python.org/tutorials/packaging-projects/)
   - [ ] [Publish a package to PyPI](https://packaging.python.org/tutorials/packaging-projects/#uploading-the-distribution-archives)
   - [ ] [Understand versioning and dependencies](https://semver.org/)
+
+## Typical layout for a Python project
+
+```bash
+my_project/
+│
+├── README.md                   # Project overview, installation, and usage
+├── requirements.txt            # The dependencies file for reproducing the analysis environment, typically for pip
+├── setup.py                    # Makes project pip installable (pip install -e .) so my_project can be imported
+├── my_project/                 # Source package for the project
+│   ├── __init__.py             # Initializes the Python package
+│   ├── module1.py              # Python module with functions, classes, etc.
+│   ├── module2.py
+│   └── subpackage1/            # Sub-package for organization
+│       ├── __init__.py
+│       ├── submodule1.py
+│       └── submodule2.py
+├── tests/                      # Directory for unit tests
+│   ├── __init__.py
+│   ├── test_module1.py
+│   └── test_module2.py
+├── docs/                       # Documentation files
+│   ├── conf.py                 # Sphinx configuration file
+│   └── index.rst               # For Sphinx documentation
+├── data/                       # For storing data used in the project
+├── scripts/                    # For standalone scripts within the project
+│   └── script.py
+└── notebooks/                  # Jupyter notebooks for experiments and analysis
+    └── exploration.ipynb
+```
