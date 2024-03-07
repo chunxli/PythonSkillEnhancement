@@ -61,84 +61,91 @@
 
 ## Intermediate Python To-Do List
 - [ ] **Object-Oriented Programming (OOP)**
-  - [ ] Understand classes and objects
-  - [ ] Master inheritance and polymorphism
-  - [ ] Explore method overriding and data encapsulation
+  - [ ] [Understand classes and objects](https://docs.python.org/3/tutorial/classes.html)
+  - [ ] [Master inheritance and polymorphism](https://docs.python.org/3/tutorial/classes.html#inheritance)
+  - [ ] [Explore method overriding and data encapsulation](https://docs.python.org/3/tutorial/classes.html#private-variables)
 
 - [ ] **Functional Programming**
-  - [ ] Use lambda functions
-  - [ ] Implement map, reduce, and filter
-  - [ ] Understand closures and decorators
+  - [ ] [Use lambda functions](https://docs.python.org/3/tutorial/controlflow.html#lambda-expressions)
+  - [ ] [Implement map, reduce, and filter](https://docs.python.org/3/library/functions.html#map)
+  - [ ] [Understand closures and decorators](https://docs.python.org/3/tutorial/decorators.html)
 
 - [ ] **Comprehensions**
-  - [ ] Practice list comprehensions
-  - [ ] Use dictionary and set comprehensions
+  - [ ] [Practice list comprehensions](https://docs.python.org/3/tutorial/datastructures.html#list-comprehensions)
+  - [ ] [Use dictionary and set comprehensions](https://docs.python.org/3/tutorial/datastructures.html#dictionaries)
 
 - [ ] **Data Structures**
-  - [ ] Explore tuples, sets, and frozensets
-  - [ ] Implement advanced operations with dictionaries
-  - [ ] Understand stack, queue, and linked lists in Python
+  - [ ] [Explore tuples, sets, and frozensets](https://docs.python.org/3/tutorial/datastructures.html#tuples-and-sequences)
+  - [ ] [Implement advanced operations with dictionaries](https://docs.python.org/3/library/stdtypes.html#dict)
+  - [ ] [Understand stack, queue, and linked lists in Python](https://docs.python.org/3/tutorial/datastructures.html#using-lists-as-queues)
 
 - [ ] **Modules and Packages**
-  - [ ] Create and use modules
-  - [ ] Organize code with packages
-  - [ ] Explore Python Standard Library modules
+  - [ ] [Create and use modules](https://docs.python.org/3/tutorial/modules.html)
+  - [ ] [Organize code with packages](https://docs.python.org/3/tutorial/modules.html#packages)
+  - [ ] [Explore Python Standard Library modules](https://docs.python.org/3/library/)
 
 - [ ] **Error Handling and Exceptions**
-  - [ ] Use try-except blocks
-  - [ ] Implement multiple exception clauses
-  - [ ] Utilize finally and else in exception handling
+  - [ ] [Use try-except blocks](https://docs.python.org/3/tutorial/errors.html#handling-exceptions)
+  - [ ] [Implement multiple exception clauses](https://docs.python.org/3/tutorial/errors.html#handling-exceptions)
+  - [ ] [Utilize finally and else in exception handling](https://docs.python.org/3/tutorial/errors.html#defining-clean-up-actions)
 
 - [ ] **File Operations**
-  - [ ] Read from and write to files
-  - [ ] Manage file context with `with` statement
-  - [ ] Explore different file operation modes
+  - [ ] [Read from and write to files](https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files)
+  - [ ] [Manage file context with `with` statement](https://docs.python.org/3/reference/compound_stmts.html#the-with-statement)
+  - [ ] [Explore different file operation modes](https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files)
 
 - [ ] **Iterators and Generators**
-  - [ ] Create custom iterators
-  - [ ] Use generator functions and expressions
-  - [ ] Understand the yield statement
+  - [ ] [Create custom iterators](https://docs.python.org/3/tutorial/classes.html#iterators)
+  - [ ] [Use generator functions and expressions](https://docs.python.org/3/tutorial/classes.html#generators)
+  - [ ] [Understand the yield statement](https://docs.python.org/3/reference/simple_stmts.html#yield)
 
 - [ ] **Regular Expressions**
-  - [ ] Practice basic pattern matching
-  - [ ] Use metacharacters and quantifiers
-  - [ ] Grouping and capturing data
+  - [ ] [Practice basic pattern matching](https://docs.python.org/3/library/re.html)
+  - [ ] [Use metacharacters and quantifiers](https://docs.python.org/3/library/re.html)
+  - [ ] [Grouping and capturing data](https://docs.python.org/3/library/re.html#re-syntax)
+
 
 ## Advanced Python To-Do List
 - [ ] **Concurrency and Parallelism**
-  - [ ] Explore threading and multiprocessing
-  - [ ] Use asyncio for asynchronous programming
-  - [ ] Understand concurrent.futures
+  - [ ] [Explore threading and multiprocessing](https://docs.python.org/3/library/threading.html)
+  - [ ] [Use asyncio for asynchronous programming](https://docs.python.org/3/library/asyncio.html)
+  - [ ] [Understand concurrent.futures](https://docs.python.org/3/library/concurrent.futures.html)
 
 - [ ] **Advanced Data Manipulation**
-  - [ ] Master Pandas for data analysis
-  - [ ] Explore NumPy for numerical data
-  - [ ] Visualize data with Matplotlib or Seaborn
+  - [ ] [Master Pandas for data analysis](https://pandas.pydata.org/pandas-docs/stable/)
+  - [ ] [Explore NumPy for numerical data](https://numpy.org/doc/stable/)
+  - [ ] [Visualize data with Matplotlib or Seaborn](https://matplotlib.org/stable/contents.html)
 
 - [ ] **Web Development Frameworks**
-  - [ ] Build a basic web app with Flask
-  - [ ] Develop a Django project
-  - [ ] Understand RESTful API development
+  - [ ] [Build a basic web app with Flask](https://flask.palletsprojects.com/en/latest/)
+  - [ ] [Develop a Django project](https://docs.djangoproject.com/en/stable/)
+  - [ ] [Understand RESTful API development](https://flask-restful.readthedocs.io/en/latest/)
 
 - [ ] **Unit Testing and Test-Driven Development (TDD)**
-  - [ ] Write unit tests with unittest and pytest
-  - [ ] Practice TDD workflow
-  - [ ] Explore mocking and patching in tests
+  - [ ] [Write unit tests with unittest and pytest](https://docs.python.org/3/library/unittest.html)
+  - [ ] [Practice TDD workflow](https://testdriven.io/)
+  - [ ] [Explore mocking and patching in tests](https://docs.python.org/3/library/unittest.mock.html)
 
 - [ ] **Design Patterns**
-  - [ ] Study the Singleton, Factory, and Observer patterns
-  - [ ] Implement MVC architecture in a project
-  - [ ] Explore Behavioral, Creational, and Structural patterns
+  - [ ] [Study the Singleton, Factory, and Observer patterns](https://refactoring.guru/design-patterns/python)
+  - [ ] [Implement MVC architecture in a project](https://www.oreilly.com/library/view/python-web-development/9781789531947/)
+  - [ ] [Explore Behavioral, Creational, and Structural patterns](https://refactoring.guru/design-patterns/python)
 
 - [ ] **Performance Optimization**
-  - [ ] Profile Python code
-  - [ ] Optimize with Cython or JIT compilers
-  - [ ] Use caching techniques effectively
+  - [ ] [Profile Python code](https://docs.python.org/3/library/profile.html)
+  - [ ] [Optimize with Cython or JIT compilers](https://cython.org/)
+  - [ ] [Use caching techniques effectively](https://docs.python.org/3/library/functools.html#functools.lru_cache)
 
 - [ ] **Advanced Libraries and APIs**
-  - [ ] Work with external APIs
-  - [ ] Explore libraries for specific domains (e.g., SciPy for scientific computing)
-  - [ ] Integrate Python with other services and databases
+  - [ ] [Work with external APIs](https://docs.python-requests.org/en/latest/)
+  - [ ] [Explore libraries for specific domains (e.g., SciPy for scientific computing)](https://www.scipy.org/)
+  - [ ] [Integrate Python with other services and databases](https://www.sqlalchemy.org/)
+
+- [ ] **Software Packaging and Distribution**
+  - [ ] [Create a Python package](https://packaging.python.org/tutorials/packaging-projects/)
+  - [ ] [Publish a package to PyPI](https://packaging.python.org/tutorials/packaging-projects/#uploading-the-distribution-archives)
+  - [ ] [Understand versioning and dependencies](https://semver.org/)
+
 
 - [ ] **Software Packaging and Distribution**
   - [ ] Create a Python package
