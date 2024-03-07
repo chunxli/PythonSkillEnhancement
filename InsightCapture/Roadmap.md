@@ -8,7 +8,7 @@ Windows Desktop Application with Azure Open AI
 Establish the foundation of your application with the capability to capture and save screenshots.
 
 ### Tasks
-- [ ] **Environment Setup**: Set up your Python development environment with Python, pip, and virtualenv.
+- [x] **Environment Setup**: Set up your Python development environment with Python, pip, and virtualenv.
 - [ ] **GUI Library Decision**: Research and decide on the GUI library for the desktop application (e.g., Tkinter).
 - [ ] **Implement Screenshot Functionality**: Use `pyautogui` to capture the entire screen and save screenshots to a predefined location.
 - [ ] **Basic UI Creation**: Create a basic user interface to trigger screenshot actions and display the saved images.
