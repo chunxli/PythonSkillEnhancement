@@ -145,9 +145,3 @@
   - [ ] [Create a Python package](https://packaging.python.org/tutorials/packaging-projects/)
   - [ ] [Publish a package to PyPI](https://packaging.python.org/tutorials/packaging-projects/#uploading-the-distribution-archives)
   - [ ] [Understand versioning and dependencies](https://semver.org/)
-
-
-- [ ] **Software Packaging and Distribution**
-  - [ ] Create a Python package
-  - [ ] Publish a package to PyPI
-  - [ ] Understand versioning and dependencies
