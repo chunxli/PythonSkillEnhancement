@@ -2,11 +2,10 @@
 - [ ] **Introduction to Python**
   - [ ] [Install Python and set up the development environment](https://docs.python.org/3/using/index.html)
   - [ ] [Understand Python syntax and script execution](https://docs.python.org/3/tutorial/index.html)
-  - [ ] [Practice with basic Python REPL commands](https://docs.python.org/3/tutorial/interpreter.html)
-  - [ ] [Official Python Documentation](https://docs.python.org/3/)
+  - [x] [Practice with basic Python REPL commands](https://docs.python.org/3/tutorial/interpreter.html)
 
 - [ ] **Variables and Data Types**
-  - [ ] [Learn about data types: int, float, str, bool](https://docs.python.org/3/library/stdtypes.html)
+  - [x] [Learn about data types: int, float, str, bool](https://docs.python.org/3/library/stdtypes.html)
   - [ ] [Understand variables and how to assign values](https://docs.python.org/3/tutorial/introduction.html#using-python-as-a-calculator)
   - [ ] [Practice type conversion](https://docs.python.org/3/library/functions.html#type-obj)
 
